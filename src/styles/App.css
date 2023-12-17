@@ -1,8 +1,12 @@
-/* code here  */
-.redColor{
-
+/* App.css */
+.redColor {
+  color: red;
+  font-size: 30px;
+  font-style: normal;
 }
 
-.blueColor{
-
+.blueColor {
+  color: blue;
+  font-size: 30px;
+  font-style: italic;
 }
